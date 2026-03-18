@@ -79,7 +79,7 @@ function App() {
         </main>
 
         <footer className="mt-12 text-center text-gray-600 text-sm">
-          <p>Train Ticket Reservation System - Powered by Supabase</p>
+          <p>Train Ticket Reservation System - Powered by Dimantha</p>
         </footer>
       </div>
     </div>
