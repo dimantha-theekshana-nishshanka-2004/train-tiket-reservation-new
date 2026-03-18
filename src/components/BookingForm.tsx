@@ -254,8 +254,8 @@ export function BookingForm() {
               className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
               required
             >
-              <option value="General">General (₹500)</option>
-              <option value="AC">AC (₹1500)</option>
+              <option value="General">General (Rs:500)</option>
+              <option value="AC">AC (Rs:1500)</option>
             </select>
           </div>
         </div>
