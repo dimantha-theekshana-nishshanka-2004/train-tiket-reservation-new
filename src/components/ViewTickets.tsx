@@ -175,7 +175,7 @@ export function ViewTickets() {
                   </span>
                 </td>
                 <td className="px-4 py-4 whitespace-nowrap text-sm text-gray-900">
-                  ₹{ticket.fare}
+                  Rs {ticket.fare}
                 </td>
               </tr>
             ))}
