@@ -140,7 +140,7 @@ export function BookingForm() {
 
       setMessage({
         type: 'success',
-        text: `Ticket booked successfully! Ticket ID: ${ticketData.ticket_id}\nStatus: ${ticketStatus}\nFare: ₹${fare}`,
+        text: `Ticket booked successfully! Ticket ID: ${ticketData.ticket_id}\nStatus: ${ticketStatus}\nFare: Rs ${fare}`,
       });
 
       setFormData({
